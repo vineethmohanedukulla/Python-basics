@@ -1,4 +1,4 @@
-# ICP-1
+# Python Basics
 ICP-1
 
 #### Complete the following:
